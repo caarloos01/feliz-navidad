@@ -108,7 +108,8 @@ body {
         <strong>Te amo ❤️</strong>
     </div>
 
-    <div class="footer">
+
+
         Con todo mi amor 💕<br>
         <strong>Karo</strong>
     </div>
@@ -117,3 +118,6 @@ body {
 
 </body>
 </html>
+![foto2](https://github.com/user-attachments/assets/285607d4-39d2-445f-b57f-4b12a3100d01)
+![foto1](https://github.com/user-attachments/assets/17158214-72aa-4b4a-a98d-8ed860673399)
+![foto3](https://github.com/user-attachments/assets/e5697c9b-92d7-42f9-aca8-6716bce12956)
